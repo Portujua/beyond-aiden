@@ -1,0 +1,10 @@
+C:\Users\Eduardo\source\repos\Beyond Aiden\Aiden\obj\Debug\Aiden.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Beyond Aiden\Aiden\obj\Debug\Aiden.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Beyond Aiden\Aiden\bin\Debug\Aiden.exe.config
+C:\Users\Eduardo\source\repos\Beyond Aiden\Aiden\bin\Debug\Aiden.exe
+C:\Users\Eduardo\source\repos\Beyond Aiden\Aiden\bin\Debug\Aiden.pdb
+C:\Users\Eduardo\source\repos\Beyond Aiden\Aiden\bin\Debug\BeyondCore.dll
+C:\Users\Eduardo\source\repos\Beyond Aiden\Aiden\bin\Debug\BeyondCore.pdb
+C:\Users\Eduardo\source\repos\Beyond Aiden\Aiden\obj\Debug\Aiden.csproj.CopyComplete
+C:\Users\Eduardo\source\repos\Beyond Aiden\Aiden\obj\Debug\Aiden.exe
+C:\Users\Eduardo\source\repos\Beyond Aiden\Aiden\obj\Debug\Aiden.pdb

@@ -1,0 +1,6 @@
+C:\Users\Eduardo\source\repos\Beyond Aiden\BeyondCore\bin\Debug\BeyondCore.dll
+C:\Users\Eduardo\source\repos\Beyond Aiden\BeyondCore\bin\Debug\BeyondCore.pdb
+C:\Users\Eduardo\source\repos\Beyond Aiden\BeyondCore\obj\Debug\BeyondCore.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Beyond Aiden\BeyondCore\obj\Debug\BeyondCore.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Beyond Aiden\BeyondCore\obj\Debug\BeyondCore.dll
+C:\Users\Eduardo\source\repos\Beyond Aiden\BeyondCore\obj\Debug\BeyondCore.pdb

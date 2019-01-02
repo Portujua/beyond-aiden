@@ -1,0 +1,9 @@
+c:\users\eduardo\source\repos\Beyond Aiden\Jodie\bin\Debug\Jodie.exe.config
+c:\users\eduardo\source\repos\Beyond Aiden\Jodie\bin\Debug\Jodie.exe
+c:\users\eduardo\source\repos\Beyond Aiden\Jodie\bin\Debug\Jodie.pdb
+c:\users\eduardo\source\repos\Beyond Aiden\Jodie\obj\Debug\Jodie.csprojAssemblyReference.cache
+c:\users\eduardo\source\repos\Beyond Aiden\Jodie\obj\Debug\Jodie.Properties.Resources.resources
+c:\users\eduardo\source\repos\Beyond Aiden\Jodie\obj\Debug\Jodie.csproj.GenerateResource.cache
+c:\users\eduardo\source\repos\Beyond Aiden\Jodie\obj\Debug\Jodie.csproj.CoreCompileInputs.cache
+c:\users\eduardo\source\repos\Beyond Aiden\Jodie\obj\Debug\Jodie.exe
+c:\users\eduardo\source\repos\Beyond Aiden\Jodie\obj\Debug\Jodie.pdb
